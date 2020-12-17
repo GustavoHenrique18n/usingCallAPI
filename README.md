@@ -1,4 +1,4 @@
-POST
+#POST
 
 localhost:83/esqueleto-api-php/index.php/cliente/consultarCep
 
@@ -6,11 +6,11 @@ localhost:83/esqueleto-api-php/index.php/cliente/consultarCep
     "cep":"02733090"
 }
 
-GET
+#GET
 localhost:83/esqueleto-api-php/index.php/cliente/consultar?id=20
 
 
-PUT
+#PUT
 localhost:83/esqueleto-api-php/index.php/cliente/atualizar
 
 {
@@ -20,7 +20,7 @@ localhost:83/esqueleto-api-php/index.php/cliente/atualizar
     "idade":"70"
 }
 
-DELETE
+#DELETE
 localhost:83/esqueleto-api-php/index.php/cliente/deletar?id=10
 
 
