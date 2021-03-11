@@ -17,12 +17,10 @@ Click [HERE](contribuition.md) and see how to contribute.<br>
 
 ### Routes of application
 - POST
-
 `localhost:83/esqueleto-api-php/index.php/cliente/consultarCep`
  
 - GET
 `localhost:83/esqueleto-api-php/index.php/cliente/consultar?id=20`
-
 
 - PUT
 `localhost:83/esqueleto-api-php/index.php/cliente/atualizar`
