@@ -9,29 +9,19 @@
  
 ## 💻 Project
 
-That is a simple server with PHP.🧩
+This is a integration and request with API extern (URA SYSTEM).🧩
 
 ## 🔥 Be one of the contributors<br>
 
 Click [HERE](contribuition.md) and see how to contribute.<br>
 
+### Routes of application
+- POST
 
-
-
-
-
-
-
-
-
-
-#POST
-
-localhost:83/esqueleto-api-php/index.php/cliente/consultarCep
-
-{
+`localhost:83/esqueleto-api-php/index.php/cliente/consultarCep`
+`{
     "cep":"02733090"
-}
+}`
 
 #GET
 localhost:83/esqueleto-api-php/index.php/cliente/consultar?id=20
